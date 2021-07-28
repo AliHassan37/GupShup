@@ -1,0 +1,21 @@
+////// Steps to follow ///////
+
+1- create NPM project //done
+
+2- Create Index, Css, Js Files // done
+
+3- install dependencies. express, nodemon(dev dep.). //done
+
+4- create express server (server.js) //done
+
+5- do frontend part // done 
+
+6- install socket.io, setup socket.io in serverjs and client.js //done
+
+7- client send mesg logic in client.js //done
+
+8- recieve msg on server and broadcast to all client // done
+
+9- recieve msd on client and display it. scrollToBottom etc... //done 
+
+////////////          Congratulations         ////////////
